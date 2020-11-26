@@ -1,7 +1,6 @@
 # Reaktor Junior Developer Assignment 2021 Markku Myllärinen
 
-
-
+Heroku live: https://reaktor-markku.herokuapp.com/  (Kestää käynnistyä ensimmäisellä kertaa Herokun ilmaisversion takia)
 
 ### `yarn start`
 
